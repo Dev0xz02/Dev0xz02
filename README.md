@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <a href="https://discordapp.com/users/731456367134769203" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/731456367134769203.png"/></a>
+  <a href="https://discordapp.com/users/731456367134769203" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/731456367134769203.png"/></a>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Dev0xz02)
 ![GitHub User's forks](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FDev0xz02&query=forks&style=social&logo=github&label=Total%20Forks)
