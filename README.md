@@ -3,4 +3,5 @@
 ![dev0xz02](https://count.getloli.com/@dev0xz02?theme=gelbooru&darkmode=0)
 
 website: https://dev0xz02.ru/<br>
-mirrors: https://dev0xz02.reimu.mom/ , https://dev0xz02.sakuracdn.ru/ , https://dev0xz02.sakuracdn.online/ , https://dev0xz02.pages.dev/
+sharkey instance: https://mihari.online/<br>
+mirrors: https://dev0xz02.sakuracdn.ru/ , https://dev0xz02.sakuracdn.online/ , https://dev0xz02.mihari.online/ , https://dev0xz02.mihari.ru/ , https://dev0xz02.pages.dev/
