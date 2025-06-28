@@ -4,4 +4,4 @@
 
 website: https://dev0xz02.ru/<br>
 sharkey instance: https://mihari.online/<br>
-mirrors: https://dev0xz02.sakuracdn.ru/ , https://dev0xz02.sakuracdn.online/ , https://dev0xz02.mihari.online/ , https://dev0xz02.mihari.ru/ , https://dev0xz02.pages.dev/
+mirrors: https://dev0xz02.sakuracdn.ru/ , https://dev0xz02.sakuracdn.online/ , https://dev0xz02.mihari.online/ , https://dev0xz02.metatable.su/ , https://dev0xz02.mihari.ru/ , https://dev0xz02.pages.dev/
