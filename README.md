@@ -1,4 +1,4 @@
-[profile](https://sakuracdn.ru/files/6Pd4qtuqvjfFYGQTdGFk.png)
+![profile](https://sakuracdn.ru/files/6Pd4qtuqvjfFYGQTdGFk.png)
 [![discord](https://discord.c99.nl/widget/theme-3/731456367134769203.png)](https://discordapp.com/users/731456367134769203)
 ![dev0xz02](https://count.getloli.com/@dev0xz02?theme=gelbooru&darkmode=0)
 
