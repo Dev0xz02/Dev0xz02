@@ -4,5 +4,5 @@
 
 website: https://v0xz02.de/<br>
 sharkey instance: ~~https://mihari.online/~~ domain expired, gotta move to another one someday<br>
-mirrors: https://dev0xz02.pages.dev/ , https://dev0xz02.is-a.dev/ , https://dev0xz02.metatable.su/ , https://dev0xz02.on3x.pp.ua/ , https://s3kura.pp.ua/ , https://dev0xz02.scriptlang.com/ , https://2283666.xyz/ , https://dev0xz02.nya.je/<br>
+mirrors: https://dev0xz02.pages.dev/ , https://dev0xz02.is-a.dev/ , https://dev0xz02.metatable.su/ , https://dev0xz02.on3x.pp.ua/ , https://s3kura.pp.ua/ , https://dev0xz02.scriptlang.com/ , https://2283666.xyz/ , https://dev0xz02.nya.je/ , https://sakura.at.dev0xz02.abrdns.com/<br>
 redirects: https://dev0xz02.ru/
